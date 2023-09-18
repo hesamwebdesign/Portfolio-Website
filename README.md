@@ -1,2 +1,3 @@
 # Portfolio-Website
- Just a usual portfolio for practicing
+
+Build a Portfolio Website With Next JS + Framer Motion
